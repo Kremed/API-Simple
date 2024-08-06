@@ -1,0 +1,6 @@
+@Simple.Backend_HostAddress = http://localhost:5166
+
+GET {{Simple.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
